@@ -6,5 +6,5 @@
 5 - git status => pour connaitre  toute les modifications qui apportées sur mon dépot 
 6 - git banch -M"name branch" => crée une copie du le depot original 
 7 - git remote => pour lier mon projet avec le GITHUB 
-8 - git push  => pour exporter mon projet sur la platform 
+8 - git push  => pour exporter mon projet sur la platform du GITHUB 
 
